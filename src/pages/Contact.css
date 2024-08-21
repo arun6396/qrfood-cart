@@ -1,0 +1,13 @@
+.contact {
+  margin-top: 60px;
+}
+.cc {
+  margin-top: 130px;
+}
+.contactmain {
+  height: fit-content;
+  width: fit-content;
+
+  border-radius: 100px;
+  margin: 5px;
+}

@@ -1,0 +1,30 @@
+.cards{
+    height: 200px;
+    width: 350px;
+
+   
+    
+  }
+  .caro{
+    width: 23vw;
+    background-color: rgb(188, 29, 29);
+    display: flex;
+    justify-content: center;
+margin-left: 550px;
+}
+  table{
+    margin-left: 100px;
+    
+  }
+  table input{
+    width: 158px;
+    border-radius: 8px;
+  
+}
+table label{
+    color: aliceblue;
+}
+.reviewtype{
+    background-color: rgb(122, 30, 30);
+    width: 350px;
+}

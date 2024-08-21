@@ -1,0 +1,16 @@
+.btns{
+margin-left: 65px;
+color: green;
+background-color: rgb(237, 231, 231);
+
+
+}
+.btns:hover{
+    color: red;
+    background-color: rgb(237, 231, 231);
+}
+.ca-menu{
+margin: 30px;
+margin-left: 40px;
+
+}
